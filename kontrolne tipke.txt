@@ -1,0 +1,11 @@
+A............premik v levo
+D............premik v desno
+right........povecaj moc
+left.........pomanjsaj moc
+up...........povecaj kot
+down.........pomanjsaj kot
+1............poklici rakete
+2............poklici letalo
+0............preklici rakete
+I............informacije o tankih
+space........ustreli/(potrdi napad)
